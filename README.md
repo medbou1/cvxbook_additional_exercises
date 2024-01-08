@@ -7,3 +7,6 @@ It is updated after each quarter the course is taught, so the exercise numbers c
 
 Instructors can request the solutions by emailing the authors.  Please
 include a link to your course.
+
+
+https://www.cvxpy.org/tutorial/index.html
